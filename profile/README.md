@@ -1,3 +1,5 @@
+<img src="https://github.com/athena-logistics/.github/raw/main/assets/banner.png" title="Banner" />
+
 <a href="https://apps.apple.com/app/athena-event-logistics/id1637143661">
   <img src="https://github.com/athena-logistics/.github/raw/main/assets/ios-download.svg" width="200" title="Download from the Apple App Store" />
 </a>
